@@ -1,0 +1,4 @@
+esstatus
+========
+
+ElasticSearch Status Tool
